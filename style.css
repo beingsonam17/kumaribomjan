@@ -1,0 +1,6 @@
+@media all and (max-width: 540px)
+{
+  .navbar-brand{
+      font-size: 20px;
+  }
+}
